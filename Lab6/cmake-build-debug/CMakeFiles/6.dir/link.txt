@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++17 -g   CMakeFiles/6.dir/vending3.cpp.o  -o 6 

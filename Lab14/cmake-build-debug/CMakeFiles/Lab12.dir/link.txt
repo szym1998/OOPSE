@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++17 -g   CMakeFiles/Lab12.dir/main.cpp.o CMakeFiles/Lab12.dir/Draw.cpp.o CMakeFiles/Lab12.dir/Menus.cpp.o CMakeFiles/Lab12.dir/Player.cpp.o CMakeFiles/Lab12.dir/read_csv.cpp.o CMakeFiles/Lab12.dir/Find_by_name.cpp.o CMakeFiles/Lab12.dir/Battle.cpp.o  -o Lab12 

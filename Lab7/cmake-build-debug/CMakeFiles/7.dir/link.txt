@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++17 -g   CMakeFiles/7.dir/main.cpp.o CMakeFiles/7.dir/Draw.cpp.o CMakeFiles/7.dir/Menus.cpp.o CMakeFiles/7.dir/Player.cpp.o CMakeFiles/7.dir/Save_player.cpp.o CMakeFiles/7.dir/New.cpp.o  -o 7 
